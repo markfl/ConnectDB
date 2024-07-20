@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Microsoft SQL Server/Microsoft JDBC DRIVER 9.4 for SQL Server/mssql-jdbc-9.4.0.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MySQL/MySQL Server 8.4/bin/mysql-connector-j-8.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users Shared Folders/markfl/Documents/My Development/Eclipse/Libraries/IBM i/lib/java9/jt400.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-21/bin/ojdbc11.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Utilities"/>
+	<classpathentry kind="lib" path="C:/Users Shared Folders/markfl/Documents/My Development/Eclipse/Libraries/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
