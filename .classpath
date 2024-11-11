@@ -11,6 +11,6 @@
 	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-21/bin/ojdbc11.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Utilities"/>
 	<classpathentry kind="lib" path="C:/Users Shared Folders/markfl/Documents/My Development/Eclipse/Libraries/json-simple-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/MySQL/MySQL Server 9.0/bin/mysql-connector-j-9.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MySQL/MySQL Server 8.0/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
